@@ -56,3 +56,24 @@ Mapper output:
  
  chart : Barchart
  
+ 3. Question 3: For each location, find lowest recorded MinTemp
+ 
+          Solution:
+ Mapper input: 
+| 12/1/2008 | Albury | 13.4 | 22.9 | 0.6 | NA | NA | W | 44 | W | WNW | 20 | 24 | 71 | 22 | 1007.7 | 1007.1 | 8 | NA | 16.9 | 21.8 | No | 0 | No |
+|-----------|--------|------|------|-----|----|----|---|----|---|-----|----|----|----|----|--------|--------|---|----|------|------|----|---|----|
+
+
+Mapper output:
+ |location|  MinTemp|
+ |---------|----------|
+ |Albury |    13.4|
+ 
+ Reducer output:
+ |location |lowest MinTemp|
+ |---------|-----|
+ |Albury| -2.8|
+ 
+ chart: Bargraph
+ 
+ 
