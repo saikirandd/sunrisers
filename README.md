@@ -36,7 +36,7 @@ Mapper output:
  
  
  
-1. Question 2: For each location, find highest recorded MaxTemp.
+2. Question 2: For each location, find highest recorded MaxTemp.
 
   Solution:
  Mapper input: 
