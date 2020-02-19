@@ -11,9 +11,9 @@
 ## project Introduction: 
 Our project covers about wheather in major cities of Australia.
 ## Data source: 
-link: 
+ 
 - [weather data source](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)
- Data is of size of aboot 13.5 mb in CSV format.Data is strucutred. It has 142190 rows and 24 columns. It is updated every year. Data is reliable.
+ , data is of size of aboot 13.5 mb in CSV format.Data is strucutred. It has 142190 rows and 24 columns. It is updated every year. Data is reliable.
  
 ## Big data problems
 1. Question 1: For each location, find avg rainfall
