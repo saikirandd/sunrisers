@@ -1,15 +1,20 @@
 # Sunrisers
 ##   project number: 02
-1. Nishanth reddy, Devi Reddy
-2. Saikiran, Doddapaneni
-3. Yeshwanth reddy, Anumula
+1. Nishanth reddy, Devi Reddy(nishanthreddy122@gmail.com)
+2. Saikiran, Doddapaneni(saikirandoddapaneni@gmail.com)
+3. Yeshwanth reddy, Anumula(yeshwanthreddy76@gmail.com)
+## course 
+44517-02
 ## Links: - [GitHub repo](https://github.com/saikirandd/sunrisers/issues/3)
           
   - [issues link](https://github.com/saikirandd/sunrisers/issues/)
 ## project Introduction: 
 Our project covers about wheather in major cities of Australia.
 ## Data source: 
- Data is of size of aboot 13.5 mb in CSV format.Data is strucutred. It has 142190 rows and 24 columns.
+link: 
+- [weather data source](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)
+ Data is of size of aboot 13.5 mb in CSV format.Data is strucutred. It has 142190 rows and 24 columns. It is updated every year. Data is reliable.
+ 
 ## Big data problems
 1. Question 1: For each location, find avg rainfall
   
