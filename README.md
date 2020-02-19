@@ -37,8 +37,7 @@ Mapper output:
  
  
 2. Question 2: For each location, find highest recorded MaxTemp.
-
-  Solution:
+Solution:
  Mapper input: 
 | 12/1/2008 | Albury | 13.4 | 22.9 | 0.6 | NA | NA | W | 44 | W | WNW | 20 | 24 | 71 | 22 | 1007.7 | 1007.1 | 8 | NA | 16.9 | 21.8 | No | 0 | No |
 |-----------|--------|------|------|-----|----|----|---|----|---|-----|----|----|----|----|--------|--------|---|----|------|------|----|---|----|
@@ -58,7 +57,7 @@ Mapper output:
  
  3. Question 3: For each location, find lowest recorded MinTemp
  
-          Solution:
+  Solution:
  Mapper input: 
 | 12/1/2008 | Albury | 13.4 | 22.9 | 0.6 | NA | NA | W | 44 | W | WNW | 20 | 24 | 71 | 22 | 1007.7 | 1007.1 | 8 | NA | 16.9 | 21.8 | No | 0 | No |
 |-----------|--------|------|------|-----|----|----|---|----|---|-----|----|----|----|----|--------|--------|---|----|------|------|----|---|----|
