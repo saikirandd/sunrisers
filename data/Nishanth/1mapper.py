@@ -1,4 +1,4 @@
-input = open("weather.txt", "r")
+input = open("wheather.txt", "r")
 output = open("01.txt", "w")
 
 for line in input:
