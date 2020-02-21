@@ -6,7 +6,7 @@ thisValue = 99999999999
 
 for line in s:
   data = line.strip().split('\t')
-  location, mintemp = data
+  location, lowest = data
 
   if location != thisKey:
     if thisKey:
@@ -18,7 +18,8 @@ for line in s:
     thisValue = 99999999999
   
   # apply the aggregation function
-  thisValue = min(thisValue,float(mintemp))
+  # to find lowest recorded min temperature
+  thisValue = min(thisValue,float(lowest))
 
 # output the final entry when done
 r.write(thisKey + '\t' + str(thisValue)+'\n')
