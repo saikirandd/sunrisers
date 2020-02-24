@@ -99,7 +99,7 @@ Mapper output:
  |Albury| -2.8|
  
  chart: Bargraph
- - ![LowestRecordedTemperature]()
+ - ![LowestRecordedTemperature](https://github.com/saikirandd/sunrisers/blob/master/Images/LowestTemperatureRecorded.png)
  
  
  
