@@ -28,7 +28,7 @@ Type "python 3reducer.py" in powershell or terminal
  
 ## Big data problems
 
-Sai Kiran Doddapaneni
+### Sai Kiran Doddapaneni
 1. Question 1: For each location, find avg rainfall
   
  Solution:
@@ -54,13 +54,13 @@ Mapper output:
  
  - ![AvgRain](https://github.com/saikirandd/sunrisers/blob/master/Images/avgRain.PNG)
  
-  # Mapper screenshot
+  ### Mapper screenshot
  - ![mapper](https://github.com/saikirandd/sunrisers/blob/master/data/Sai%20Kiran%20Doddapaneni/mapper_console_screenshot.png)
- # Reducer screenshot
+ ### Reducer screenshot
  - ![reducer](https://github.com/saikirandd/sunrisers/blob/master/data/Sai%20Kiran%20Doddapaneni/reducer_console_screenshot.png)
  
  
-Yeshwanth Reddy Anumula 
+### Yeshwanth Reddy Anumula 
 
 2. Question 2: For each location, find highest recorded MaxTemp.
  
@@ -84,12 +84,13 @@ Mapper output:
  chart : Bar graph
  
  - ![Max temp](https://github.com/saikirandd/sunrisers/blob/master/Images/Highest.JPG)
- # Mapper screenshot
+ ### Mapper screenshot
  - ![mapper](https://github.com/saikirandd/sunrisers/blob/master/data/Yeshwanth%20Reddy%20Anumula/Screenshot%20(81).png)
- # Reducer screenshot
+ ### Reducer screenshot
  - ![reducer](https://github.com/saikirandd/sunrisers/blob/master/data/Yeshwanth%20Reddy%20Anumula/Screenshot%20(82).png)
  
- 3. Question 3: For each location, find lowest recorded MinTemp
+### Nishanth Reddy Devi Reddy
+3. Question 3: For each location, find lowest recorded MinTemp
  
   Solution:
  Mapper input: 
@@ -106,6 +107,10 @@ Mapper output:
  |location |lowest MinTemp|
  |---------|-----|
  |Albury| -2.8|
+  ### Mapper screenshot
+ - ![mapper]()
+ ### Reducer screenshot
+ - ![reducer]()
  
  chart: Bargraph
  - ![LowestRecordedTemperature](https://github.com/saikirandd/sunrisers/blob/master/Images/LowestTemperatureRecorded.png)
