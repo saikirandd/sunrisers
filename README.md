@@ -75,7 +75,7 @@ Mapper output:
  |---------|-----|
  |Albury| 44.8|
  
- chart : Barchart
+ chart : Bar graph
  
  - ![Max temp](https://github.com/saikirandd/sunrisers/blob/master/Images/Highest.JPG)
  
