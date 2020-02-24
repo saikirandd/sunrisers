@@ -50,7 +50,7 @@ Mapper output:
  
  chart: bar graph.
  
- - ![AvgRain](sunrisers/Images/avgRain.png)
+ - ![AvgRain](https://github.com/saikirandd/sunrisers/blob/master/Images/avgRain.PNG)
  
  
  
