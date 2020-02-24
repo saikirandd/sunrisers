@@ -77,7 +77,7 @@ Mapper output:
  
  chart : Barchart
  
- - ![Max temp](https://github.com/saikirandd/sunrisers/blob/master/Images/Highest.jpg)
+ - ![Max temp](https://github.com/saikirandd/sunrisers/blob/master/Images/Highest.JPG)
  
  3. Question 3: For each location, find lowest recorded MinTemp
  
