@@ -108,7 +108,7 @@ Mapper output:
  |---------|-----|
  |Albury| -2.8|
   ### Mapper screenshot
- - ![mapper]()
+ - ![mapper](https://github.com/saikirandd/sunrisers/blob/master/data/Nishanth/mapper_screenshot.png)
  ### Reducer screenshot
  - ![reducer]()
  
