@@ -1,5 +1,5 @@
 # Sunrisers
-##   project number: 02
+##   Project number: 02
 1. Nishanth reddy, Devi Reddy(nishanthreddy122@gmail.com)
 2. Saikiran, Doddapaneni(saikirandoddapaneni@gmail.com)
 3. Yeshwanth reddy, Anumula(yeshwanthreddy76@gmail.com)
@@ -29,7 +29,7 @@ Type "python 3reducer.py" in powershell or terminal
 ## Big data problems
 
 ### Sai Kiran Doddapaneni
-1. Question 1: For each location, find avg rainfall
+- Question 1: For each location, find avg rainfall
   
  Solution:
  Mapper input: 
@@ -61,8 +61,7 @@ Mapper output:
  
  
 ### Yeshwanth Reddy Anumula 
-
-2. Question 2: For each location, find highest recorded MaxTemp.
+- Question 2: For each location, find highest recorded MaxTemp.
  
  Solution:
  Mapper input: 
@@ -90,7 +89,7 @@ Mapper output:
  - ![reducer](https://github.com/saikirandd/sunrisers/blob/master/data/Yeshwanth%20Reddy%20Anumula/Screenshot%20(82).png)
  
 ### Nishanth Reddy Devi Reddy
-3. Question 3: For each location, find lowest recorded MinTemp
+- Question 3: For each location, find lowest recorded MinTemp
  
   Solution:
  Mapper input: 
