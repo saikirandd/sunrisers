@@ -110,7 +110,7 @@ Mapper output:
   ### Mapper screenshot
  - ![mapper](https://github.com/saikirandd/sunrisers/blob/master/data/Nishanth/mapper_screenshot.png)
  ### Reducer screenshot
- - ![reducer]()
+ - ![reducer](https://github.com/saikirandd/sunrisers/blob/master/data/Nishanth/reducer_screenshot.png)
  
  chart: Bargraph
  - ![LowestRecordedTemperature](https://github.com/saikirandd/sunrisers/blob/master/Images/LowestTemperatureRecorded.png)
