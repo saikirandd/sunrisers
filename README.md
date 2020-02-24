@@ -55,7 +55,7 @@ Mapper output:
  - ![AvgRain](https://github.com/saikirandd/sunrisers/blob/master/Images/avgRain.PNG)
  
  
- 
+Yeshwanth Reddy Anumula 
 2. Question 2: For each location, find highest recorded MaxTemp.
  
  Solution:
