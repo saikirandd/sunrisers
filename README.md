@@ -54,6 +54,11 @@ Mapper output:
  
  - ![AvgRain](https://github.com/saikirandd/sunrisers/blob/master/Images/avgRain.PNG)
  
+  # Mapper screenshot
+ - ![mapper](https://github.com/saikirandd/sunrisers/blob/master/data/Sai%20Kiran%20Doddapaneni/mapper_console_screenshot.png)
+ # Reducer screenshot
+ - ![reducer](https://github.com/saikirandd/sunrisers/blob/master/data/Sai%20Kiran%20Doddapaneni/reducer_console_screenshot.png)
+ 
  
 Yeshwanth Reddy Anumula 
 
