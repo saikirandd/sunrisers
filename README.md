@@ -108,9 +108,9 @@ Mapper output:
  |---------|-----|
  |Albury| -2.8|
   ### Mapper screenshot
- - ![mapper](https://github.com/saikirandd/sunrisers/blob/master/data/Nishanth/mapper_screenshot.png)
+ - ![mapper](https://github.com/saikirandd/sunrisers/blob/master/data/Nishanth%20Reddy%20Devi%20Reddy/mapper_screenshot.png)
  ### Reducer screenshot
- - ![reducer](https://github.com/saikirandd/sunrisers/blob/master/data/Nishanth/reducer_screenshot.png)
+ - ![reducer](https://github.com/saikirandd/sunrisers/blob/master/data/Nishanth%20Reddy%20Devi%20Reddy/reducer_screenshot.png)
  
  chart: Bargraph
  - ![LowestRecordedTemperature](https://github.com/saikirandd/sunrisers/blob/master/Images/LowestTemperatureRecorded.png)
