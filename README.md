@@ -1,15 +1,15 @@
 # Sunrisers
-##   Project number: 02
+##   Project Number: 02
 1. Nishanth reddy, Devi Reddy(nishanthreddy122@gmail.com)
 2. Saikiran, Doddapaneni(saikirandoddapaneni@gmail.com)
 3. Yeshwanth reddy, Anumula(yeshwanthreddy76@gmail.com)
-## course 
+## Course 
 44517-02
 ## Links: 
 - [GitHub repo](https://github.com/saikirandd/sunrisers/issues/3)
           
  - [issues link](https://github.com/saikirandd/sunrisers/issues/)
-## project Introduction: 
+## Project Introduction: 
 Our project is about weather in major cities of Australia, that includes temperature, wind speed, pressure, rainfall.
 ## Data source: 
  
