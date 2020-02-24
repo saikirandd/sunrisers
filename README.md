@@ -5,15 +5,16 @@
 3. Yeshwanth reddy, Anumula(yeshwanthreddy76@gmail.com)
 ## course 
 44517-02
-## Links: - [GitHub repo](https://github.com/saikirandd/sunrisers/issues/3)
+## Links: 
+- [GitHub repo](https://github.com/saikirandd/sunrisers/issues/3)
           
-  - [issues link](https://github.com/saikirandd/sunrisers/issues/)
+ - [issues link](https://github.com/saikirandd/sunrisers/issues/)
 ## project Introduction: 
-Our project covers about wheather in major cities of Australia.
+Our project is about weather in major cities of Australia, that includes temperature, wind speed, pressure, rainfall.
 ## Data source: 
  
 - [weather data source](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)
- , data is of size of aboot 13.5 mb in CSV format.Data is strucutred. It has 142190 rows and 24 columns. It is updated every year. Data is reliable.
+ , data is of size 13.5 mb, which is in CSV format. Data is strucutred. It has 142190 rows and 11 columns. It is updated every year. Data is reliable.
  
 ## Big data problems
 1. Question 1: For each location, find avg rainfall
