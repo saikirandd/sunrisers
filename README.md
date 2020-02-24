@@ -17,7 +17,7 @@ Our project is about weather in major cities of Australia, that includes tempera
  , data is of size 13.5 mb, which is in CSV format. Data is strucutred. It has 142190 rows and 11 columns. It is updated every year. Data is reliable.
  
 ## Commands
-1. TO run Mapper code: 
+1. To run Mapper code: 
 ```
 Type "python 1mapper.py" in powershell or terminal
 ```
@@ -49,6 +49,8 @@ Mapper output:
  |Albury| 1.95|
  
  chart: bar graph.
+ 
+ - ![AvgRain](https://github.com/saikirandd/sunrisers/blob/master/Images/avgRain.PNG)
  
  
  
