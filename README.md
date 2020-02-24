@@ -84,6 +84,10 @@ Mapper output:
  chart : Bar graph
  
  - ![Max temp](https://github.com/saikirandd/sunrisers/blob/master/Images/Highest.JPG)
+ # Mapper screenshot
+ - ![mapper](https://github.com/saikirandd/sunrisers/blob/master/data/Yeshwanth%20Reddy%20Anumula/Screenshot%20(81).png)
+ # Reducer screenshot
+ - ![reducer](https://github.com/saikirandd/sunrisers/blob/master/data/Yeshwanth%20Reddy%20Anumula/Screenshot%20(82).png)
  
  3. Question 3: For each location, find lowest recorded MinTemp
  
