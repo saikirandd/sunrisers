@@ -27,6 +27,8 @@ Type "python 3reducer.py" in powershell or terminal
 ```
  
 ## Big data problems
+
+SAI KIRAN DODDAPANENI
 1. Question 1: For each location, find avg rainfall
   
  Solution:
